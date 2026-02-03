@@ -68,7 +68,7 @@ Analysis of the **Lead Time Breakdown** reveals a crucial finding:
 
 There is a direct correlation between delivery speed and customer ratings:
 
-- ✅ **On-Time Delivery:** Average Rating \*\*4.23 / 5.0
+- ✅ **On-Time Delivery:** Average Rating **4.23 / 5.0**
 - ❌ **Late Delivery:** Average Rating Drops to **2.17 / 5.0**
   _Conclusion:_ Late deliveries slash customer satisfaction by nearly 50%.
 
