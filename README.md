@@ -25,7 +25,7 @@ This project analyzes a public dataset from **Olist** (a Brazilian e-commerce pl
 
 The analysis is presented in an interactive **Power BI Dashboard** that helps stakeholders understand why customer satisfaction ratings are fluctuating and how logistics impact the bottom line.
 
-🔗 **Live Demo:** [View Interactive Dashboard on NovyPro](https://app.powerbi.com/view?r=eyJrIjoiYWViYmYyOTctMTY3Zi00M2EzLThmNTAtMjkzYTQzMTk1NmFhIiwidCI6ImM3Njc5YmRhLThiOWYtNGMzNC1iZjFmLWU3NjM5MDYwYWJjZSJ9)  
+🔗 **Live Demo:** [View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWViYmYyOTctMTY3Zi00M2EzLThmNTAtMjkzYTQzMTk1NmFhIiwidCI6ImM3Njc5YmRhLThiOWYtNGMzNC1iZjFmLWU3NjM5MDYwYWJjZSJ9)  
 📄 **Case Study:** [Read the Full Article on Medium](https://medium.com/@maulana-irfan/menguak-akar-masalah-logistik-penjualan-pada-olist-e-commerce-menggunakan-power-bi-dcfed9226dd7)
 
 ---
@@ -46,13 +46,11 @@ Despite consistent revenue growth, Olist faces challenges in maintaining high cu
 
 Focuses on financial health, customer behavior, and product performance.
 ![Sales Dashboard](images/dashboard-sales.png)
-_(Note: Replace with your actual image path)_
 
 ### Page 2: Logistics & Operations
 
 Focuses on delivery speed, shipping costs, and root cause analysis of delays.
 ![Operations Dashboard](images/dashboard-operations.png)
-_(Note: Replace with your actual image path)_
 
 ---
 
